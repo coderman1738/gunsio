@@ -6,4 +6,4 @@ A simple .io game where you shoot other players, collect food and gain XP, and u
 
 - - -
 
-Project liscensed under GNU liscense
+Project liscensed under GNU General Public License v3.0
